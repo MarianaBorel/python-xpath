@@ -77,6 +77,3 @@ pip install harser
 
 ```
 
-## Support the project
-
-Please contact [Michael Sinov](mailto:sihaelov@gmail.com?subject=Harser) if you want to support the Harser project.
